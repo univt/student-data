@@ -1,15 +1,23 @@
 [
   {
-    "name": "Диплом",
-    "priceDescription": "от 6000 ₽"
-  },
-  {
     "name": "Курсовая работа",
     "priceDescription": "от 2700 ₽"
   },
   {
     "name": "Реферат",
     "priceDescription": "от 600 ₽"
+  },
+  {
+    "name": "Дипломная работа",
+    "priceDescription": "от 6000 ₽"
+  },
+  {
+    "name": "Сессия под ключ",
+    "priceDescription": "от 3000 ₽"
+  },
+  {
+    "name": "Отчёт по практике",
+    "priceDescription": "от 3000 ₽"
   },
   {
     "name": "Эссе",
@@ -28,11 +36,11 @@
     "priceDescription": "от 400 ₽"
   },
   {
-    "name": "Сессия под ключ",
-    "priceDescription": "от 3000 ₽"
+    "name": "Помощь с тестом",
+    "priceDescription": "от 400 ₽"
   },
   {
-    "name": "Помощь с тестом",
-    "priceDescription": "от 400 ₽"
+    "name": "Другое",
+    "priceDescription": "по договорённости"
   }
 ]
