@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Курсовая работа",
+    "priceDescription": "от 2700 ₽"
+  },
+  {
+    "name": "Реферат",
+    "priceDescription": "от 600 ₽"
+  },
+  {
+    "name": "Дипломная работа",
+    "priceDescription": "от 6000 ₽"
+  },
+  {
+    "name": "Сессия под ключ",
+    "priceDescription": "от 3000 ₽"
+  },
+  {
+    "name": "Отчёт по практике",
+    "priceDescription": "от 2000 ₽"
+  },
+  {
+    "name": "Эссе",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "name": "Презентация",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "name": "Расчётно-графическая работа (РГР)",
+    "priceDescription": "от 800 ₽"
+  },
+  {
+    "name": "Повышение оригинальности",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "name": "Помощь с тестом",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "name": "Другое",
+    "priceDescription": "по договорённости"
+  }
+]
