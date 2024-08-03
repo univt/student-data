@@ -1,6 +1,7 @@
 {
   "list": {
-    "emptyStateText": "Список услуг пуст."
+    "emptyStateText": "Список услуг пуст.",
+    "openChatButtonText": "Открыть чат"
   },
   "title": "Услуги"
 }
