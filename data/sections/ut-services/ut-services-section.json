@@ -1,7 +1,54 @@
 {
   "list": {
     "emptyStateText": "Список услуг пуст.",
-    "openChatButtonText": "Открыть чат"
+    "openChatButtonText": "Открыть чат",
+    "query": [
+      {
+        "codename": "courseWork",
+        "parameters": {}
+      },
+      {
+        "codename": "referat",
+        "parameters": {}
+      },
+      {
+        "codename": "graduateWork",
+        "parameters": {}
+      },
+      {
+        "codename": "turnkeySession",
+        "parameters": {}
+      },
+      {
+        "codename": "practiceReport",
+        "parameters": {}
+      },
+      {
+        "codename": "essay",
+        "parameters": {}
+      },
+      {
+        "codename": "presentation",
+        "parameters": {}
+      },
+      {
+        "codename": "calculationAndGraphicWork",
+        "parameters": {}
+      },
+      {
+        "codename": "increasingOriginality",
+        "parameters": {}
+      },
+      {
+        "codename": "helpWithTest",
+        "parameters": {}
+      },
+      {
+        "codename": "other",
+        "parameters": {}
+      }
+    ],
+    "sourceRelativeURL": "data/entities/ut-services/ut-services.json"
   },
   "titleText": "Услуги"
 }
