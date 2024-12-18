@@ -3,13 +3,11 @@
     "codename": "calculationAndGraphicWork",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Расчётно-графическая работа (РГР)",
-    "order": 8,
     "priceDescription": "от 800 ₽"
   },
   {
     "codename": "courseWork",
     "contactURL": "https://vk.com/im?sel=-222131889",
-    "order": 1,
     "name": "Курсовая работа",
     "priceDescription": "от 2700 ₽"
   },
@@ -17,55 +15,47 @@
     "codename": "essay",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Эссе",
-    "order": 6,
     "priceDescription": "от 400 ₽"
   },
   {
     "codename": "graduateWork",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Дипломная работа",
-    "order": 3,
     "priceDescription": "от 6000 ₽"
   },
   {
     "codename": "helpWithTest",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Помощь с тестом",
-    "order": 10,
     "priceDescription": "от 400 ₽"
   },
   {
     "codename": "increasingOriginality",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Повышение оригинальности",
-    "order": 9,
     "priceDescription": "от 400 ₽"
   },
   {
     "codename": "other",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Другое",
-    "order": 11,
     "priceDescription": "по договорённости"
   },
   {
     "codename": "practiceReport",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Отчёт по практике",
-    "order": 5,
     "priceDescription": "от 2000 ₽"
   },
   {
     "codename": "presentation",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Презентация",
-    "order": 7,
     "priceDescription": "от 400 ₽"
   },
   {
     "codename": "referat",
     "contactURL": "https://vk.com/im?sel=-222131889",
-    "order": 2,
     "name": "Реферат",
     "priceDescription": "от 600 ₽"
   },
@@ -73,7 +63,6 @@
     "codename": "turnkeySession",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Сессия под ключ",
-    "order": 4,
     "priceDescription": "от 3000 ₽"
   }
 ]
