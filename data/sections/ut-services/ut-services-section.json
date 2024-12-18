@@ -6,13 +6,13 @@
       {
         "codename": "courseWork",
         "parameters": {
-          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/file-20.svg"
         }
       },
       {
         "codename": "referat",
         "parameters": {
-          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/file-20.svg"
         }
       },
       {
@@ -36,7 +36,7 @@
       {
         "codename": "essay",
         "parameters": {
-          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/file-20.svg"
         }
       },
       {
