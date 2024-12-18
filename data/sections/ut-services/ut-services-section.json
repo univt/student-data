@@ -5,47 +5,69 @@
     "query": [
       {
         "codename": "courseWork",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "referat",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "graduateWork",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "turnkeySession",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "practiceReport",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "essay",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "presentation",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "calculationAndGraphicWork",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "increasingOriginality",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "helpWithTest",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       },
       {
         "codename": "other",
-        "parameters": {}
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
       }
     ],
     "sourceRelativeURL": "data/entities/ut-services/ut-services.json"
