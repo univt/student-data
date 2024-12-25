@@ -64,6 +64,18 @@
         }
       },
       {
+        "codename": "programming",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/code-11.svg"
+        }
+      },
+      {
+        "codename": "googleSheets",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/calclulator-2.svg"
+        }
+      },
+      {
         "codename": "other",
         "parameters": {
           "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/school-3.svg"

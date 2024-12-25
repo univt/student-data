@@ -18,6 +18,12 @@
     "priceDescription": "от 400 ₽"
   },
   {
+    "codename": "googleSheets",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Вычисления в Google Sheets",
+    "priceDescription": "от 2700 ₽"
+  },
+  {
     "codename": "graduateWork",
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Дипломная работа",
@@ -52,6 +58,12 @@
     "contactURL": "https://vk.com/im?sel=-222131889",
     "name": "Презентация",
     "priceDescription": "от 400 ₽"
+  },
+  {
+    "codename": "programming",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Задачи по программированию",
+    "priceDescription": "от 4200 ₽"
   },
   {
     "codename": "referat",
