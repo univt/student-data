@@ -1,13 +1,11 @@
 [
   {
     "codename": "instagram",
-    "order": 2,
     "name": "Instagram",
     "url": "https://www.instagram.com/universytest"
   },
   {
     "codename": "vk",
-    "order": 1,
     "name": "ВКонтакте",
     "url": "https://vk.com/universytest"
   }
